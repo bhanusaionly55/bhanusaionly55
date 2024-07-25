@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Innovative web development projects**
 
-- 💬 Ask me about **+91 6300798496**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **bhanusaionly@gmail.com**
 
