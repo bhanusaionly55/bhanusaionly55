@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_600_2000/0/1626934133895?e=2147483647&v=beta&t=xcXhgbXVEPbZYy7FRpsFM2-1u9Zyg-UMisumOcYkpG4](https://iconscout.com/lottie-animation/business-analysts-examining-financial-reports-and-using-a-magnifying-glass-to-analyze-statistics-14681038_11851142))](https://github.com/bhanusaionly55.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Faitd.amity.edu%2Fblog%2Fhow-data-analytics-is-transforming-professional-roles-in-insurance%2F&psig=AOvVaw28TVo9nnZ-0j2sDjZ4rKBl&ust=1748353981264000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiBv6GkwY0DFQAAAAAdAAAAABA5)
 <h1 align="center">Hi 👋, I'm Bhanu Venkata Sai Raj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://iconscout.com/lottie-animation/young-man-doing-data-analyst-14005869_11302338)">
