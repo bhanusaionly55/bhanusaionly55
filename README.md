@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bhanusaionly55/bhanusaionly55/main/DataAnalysis-gif.gif" alt="MasterHead" width="80%" height="350px"/>
+<img align="center" src="https://raw.githubusercontent.com/bhanusaionly55/bhanusaionly55/main/DataAnalysis-gif.gif" alt="MasterHead" width="80%" height="350px"/>
 <h1 align="center">Hi 👋, I'm Bhanu Venkata Sai Raj</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/bhanusaionly55/bhanusaionly55/main/data.gif">
